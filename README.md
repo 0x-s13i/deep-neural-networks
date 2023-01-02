@@ -3,6 +3,8 @@ Implementing VGG-16 CNN on CIFAR-10 dataset
 
 For this task, I will design and implement a CNN architecture for the CIFAR-10 dataset based on the VGG16 architecture. The VGG16 architecture is a widely used CNN architecture that was developed by the Visual Geometry Group at the University of Oxford. It is known for its good performance on image classification tasks and has been used as a baseline in many studies.
 
+https://arxiv.org/pdf/1409.1556.pdf - VERY DEEP CONVOLUTIONAL NETWORKS FOR LARGE-SCALE IMAGE RECOGNITION
+
 The architecture of the network is shown in the diagram below:
 
 ![image](https://user-images.githubusercontent.com/26443167/210189532-46ae182e-da96-41a3-96b6-ef42d1bd78e5.png)
